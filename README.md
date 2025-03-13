@@ -1,23 +1,14 @@
-# Hello, I'm [Your Name] 👋
+# Привет, я Стас! 👋
 
-## About Me
+🎓 Обучался в **Яндекс Практикум**.  
+👨‍🏫 Работал преподавателем фронтенд-разработки в онлайн-школах **Алгоритмика** и **Web Pro**.  
 
-I am a passionate developer focused on web technologies such as **JavaScript**, **React**, and **Node.js**. I love building scalable and performant applications and am always learning new things in the tech world.
+## 🛠️ Мой стек технологий
 
-🔧 **Technologies & Tools**:
-- **Frontend**: React, HTML5, CSS3, Sass, TailwindCSS
-- **Backend**: Node.js, Express, MongoDB
-- **Other**: Git, Docker, AWS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,webpack,git,github,vscode" />
+</p>
 
-🌱 **Current Projects**:
-- A personal blog platform built with React and Node.js
-- Contributing to open-source projects on GitHub
-
-📫 **Contact Me**:
-- Email: [your.email@example.com]
-- LinkedIn: [your-linkedin-profile]
-- Twitter: [@yourhandle]
-
-## Fun Facts:
-- I play guitar and love music from the '90s.
-- I enjoy hiking and exploring new places.
+## 📫 Как связаться?
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/ТвойТГ)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/ТвойGitHub)  
