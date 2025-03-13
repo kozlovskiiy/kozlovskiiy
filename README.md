@@ -31,8 +31,11 @@
 
 📌 **Проекты:**  
 - [Stellar Burger](https://github.com/kozlovskiiy/stellar-burgers) – роутинг, Redux, авторизация.  
+- [Stellar burger на хостинге](https://stellarburgerkozlovskiy.netlify.app/)
 - [Web Larek](https://github.com/kozlovskiiy/web-larek-frontend) – архитектура, работа с API.  
+- [Web Larek на хостинге](https://weblarekkozlovskiy.netlify.app/)
 - [Mesto](https://github.com/kozlovskiiy/mesto-project-ff) – валидация, работа с сервером.  
+- [Mesto на хостинге](https://mestokozlovskiy.netlify.app/)
 
 ## 🛠️ Мой стек технологий  
 
